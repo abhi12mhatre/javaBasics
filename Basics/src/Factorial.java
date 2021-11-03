@@ -15,7 +15,7 @@ public class Factorial {
 		// TODO Auto-generated method stub
 		int number = 6;
 		int temp = number-1;
-		int fact = number;
+		int fact = number;//comment
 				
 		while(temp>0)
 		{
